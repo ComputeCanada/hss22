@@ -5,7 +5,8 @@ slug = "dmp"
 
 **February 24, 2022, 12:00-2:00pm ET**
 
-**Presented by**: Beth Knazook, Robyn Nicholson, Yvette Rancourt, Victoria Smith, Erin Clay, and Kelly Stathis
+**Presented by**: Beth Knazook, Robyn Nicholson, Yvette Rancourt, Victoria Smith, Erin Clay, Kelly
+Stathis, and Jennifer Abel
 
 **Duration / Durée**: 120 minutes
 
@@ -30,5 +31,7 @@ slug = "dmp"
 **Erin Clay**: Erin Clary is the Curation Coordinator for the Digital Research Alliance of Canada. She reviews new dataset deposits for the Federated Research Data Repository (FRDR), and as a member of the Curation Expert Group, she is engaged in developing resources to support a national curation community of practice.
 
 **Kelly Stathis**: Kelly Stathis is the Discovery and Metadata Coordinator with Alliance RDM. Kelly advances discovery and metadata initiatives for the Federated Research Data Repository (FRDR), provides technical support for the DataCite Canada Consortium, and works with several RDM expert and working groups, including the Discovery and Metadata Expert Group, the Data Repositories Expert Group, the Dataverse North Metadata Working Group, and the FRDR Discovery Redesign Working Group.
+
+**Jennifer Abel**: Jennifer Abel is the Research Data Management Specialist in the University of Calgary's Research Services Office. She is assisting with coordinating U of C's RDM strategy development and engaging in various RDM capacity-building efforts across the institution. She was previously the Project Officer and Training Coordinator with the Canadian Association of Research Libraries' Portage Network and the RDM Training Coordinator for the Digital Research Alliance of Canada. 
 
 - [Watch this session on Vimeo](https://vimeo.com/691077405)
